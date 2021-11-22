@@ -1,0 +1,72 @@
+ .card-body table tbody td .editar{
+    background:#229954;
+     margin-right:10px;
+}
+ .card-body table tbody td .eliminar{
+    background:#C22727;
+}
+
+ .card-body table tbody td .btn i{
+    color:#fff;
+     font-size:18px; 
+}
+ .card-body table tbody td .eliminar:hover{
+    background: #D54646;
+}
+ .card-body table tbody td .editar:hover{
+    background: #31b96a;
+}
+ .frm{
+    width: 50px;
+    display: inline-block;
+}
+
+.card-frm{
+   border-top:5px #C8470E solid;
+ 
+}
+
+.titulo_img{
+   width:100%;
+}
+
+.img_dtable{
+   margin: auto;
+   width:220px; 
+   height:75x;
+ 
+}
+
+
+
+#example1{
+   text-align:center ;
+}
+.dcont {
+   background: #C8470E;
+   box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, .2);
+}
+
+.cont {
+   margin-top: 20px;
+   color: #fff; 
+   font-size:150px;
+  transition: .2s;
+    margin-bottom:20px;
+    
+}
+
+.cont-dir:hover {
+   background: #3D965C ;
+   transform: translate(-3px) scale(1.05);
+   box-shadow: 0 5px 5px 0px rgba(0, 0, 0, .4);
+   filter: none;
+  
+}
+ 
+.cont-dir p{
+font-size: 17px;
+font-weight:5px;
+color:#000  ;
+font-family:  'Arial',' sans-serif';
+}
