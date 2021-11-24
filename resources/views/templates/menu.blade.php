@@ -1,7 +1,7 @@
 
 <div class="toplinks" >
       
-      <a href="{{url('../admin/index')}}"style="margin:5px 25px 10px 0;font-size:20px " > <i class="ion-unlocked" ></i>ADMIN</a>
+      <a href="{{url('./admin/index')}}"style="margin:5px 25px 10px 0;font-size:20px " > <i class="ion-unlocked" ></i>ADMIN</a>
      
 </div>
 <nav class="navbar navbar-default">
@@ -25,7 +25,7 @@
               
               <li><a href="./">Home</a></li>
             
-              <li><a href="{{url('../store')}}">Store</a></li>
+              <li><a href="{{url('./store')}}">Store</a></li>
              
             </ul>
           </div>

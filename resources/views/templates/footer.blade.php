@@ -41,9 +41,9 @@
             <div class="redes-container">
                 <ul>
                    
-                    <li> <a target="_blank" class="icono" href="#"><i class="ion-social-facebook"></i></a></li>
-                    <li> <a target="_blank" class="icono" href="#"><i class="ion-social-instagram"></i></a></li>
-                    <li> <a target="_blank" class="icono" href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li> <a target="_blank" class="icono" href="https://www.facebook.com/"><i class="ion-social-facebook"></i></a></li>
+                    <li> <a target="_blank" class="icono" href="https://www.instagram.com/"><i class="ion-social-instagram"></i></a></li>
+                    <li> <a target="_blank" class="icono" href="https://www.twitter.com/"><i class="ion-social-twitter"></i></a></li>
                    
                 </ul>
 
